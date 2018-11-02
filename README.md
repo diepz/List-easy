@@ -1,2 +1,2 @@
-# List-n-gi-n
+# List easy
 List đơn giản
